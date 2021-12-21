@@ -133,6 +133,19 @@ See [**Current status**](Changelog.md)
 
 1. **Intel Bluetooth** could not support some Bluetooth devices
 2. **Touchscreen support is disabled by default** 
+	
+#### Fixing Internal Speakers (taken from gnodipac886):
+
+By default macOS only uses 2 out of your 4 speakers which sound muffled and are missing a lot of the high frequencies.
+
+Enable surround sound to get a way better audio experience.
+
+- Open Audio MIDI Setup from applications
+- Click on the "+" symbol on the bottom left corner
+- Click "Create Muti-Output Device"
+- Check both of the Built-in Output options
+- Select the newly created device in the menu bar
+- Enjoy your music!
 
 
 ## Credits
