@@ -108,7 +108,7 @@ Currently working on macOS Monterey Support
 ## Changelog
 
 #### 2021 - December - 21
-See [**Current status**](Changelog.md)
+See [**Current status**](https://github.com/RepoWeaver/MateBook-X-Pro-2020-OpenCore/releases)
 
 ## Status
 
