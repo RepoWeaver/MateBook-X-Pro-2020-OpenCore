@@ -1,4 +1,4 @@
-# macOS  on MateBook X Pro 2020 | Opencore 0.7.6
+# macOS  on MateBook X Pro 2020 | Opencore
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/91159194/146974883-e85804b0-6b3a-47e8-a7cc-9c639596d633.png" width="60%" alt="Huawei Big Sur 11.0" />
@@ -58,6 +58,10 @@ This repo contains the files needed for getting macOS working on a **Huawei Mate
 - The **compatibility** is **very good** for the most part, most of the stuff works like it would on a real MacBook, including camera, audio, touchpad, iCloud services.
 - The **experience** is **pleasant**, as the laptop is smooth and responsive under macOS Big Sur/Catalina.
 - **Battery life** is **quite great** (from personal experience it **lasts from 4-6 hours** for light works depending on its age with a behaviour very similar to Windows 11.
+
+(With the use of turbo boost disabled)
+http://tbswitcher.rugarciap.com/
+
 - The **Intel WiFi** card is soldered onto the motherboard, which means it can't be replaced with a Broadcom one, but the Intel card is now **functional albeit not operating at full speeds** (however it is fine for most use cases).
     * With the latest `AirportItlwm.kext` even **Handoff** and **Continuity** features are working, but with a very limited support for AirDrop and Apple Watch unlocking (see [Changelog for OpenIntelWireless release](https://github.com/OpenIntelWireless/itlwm/releases)).
     * For any issues about `AirportItlwm.kext` please refer first to [**OpenIntelWireless Troubleshooting page**](https://openintelwireless.github.io/itlwm/Troubleshooting.html#kernel-extension-loading-status) and then to [**OpenIntelWireless Gitter Page**](https://gitter.im/OpenIntelWireless/itlwm?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
