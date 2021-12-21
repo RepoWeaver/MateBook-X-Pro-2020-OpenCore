@@ -1,6 +1,7 @@
-# macOS  on MateBook X Pro 2020 | Opencore 0.7.6
+# macOS  on MateBook X Pro 2020 | Opencore 0.7.6!
+
 <p align="center">
-<img src="https://images.frandroid.com/wp-content/uploads/2020/10/huawei-matebook-x-pro-frandroid-2020.png" width="60%" alt="Huawei Big Sur 11.0" />
+<img src="https://user-images.githubusercontent.com/91159194/146974883-e85804b0-6b3a-47e8-a7cc-9c639596d633.png" width="60%" alt="Huawei Big Sur 11.0" />
 </p>
 <p align="center">
 <a href="https://consumer.huawei.com/en/laptops/matebook-x-pro-2020/" target="_blank"><img src="https://img.shields.io/badge/Model-MACHC_WAX9-green.svg" /></a>
@@ -139,3 +140,5 @@ Many great people.
 - [Acidanthera](https://github.com/acidanthera)
 - [Dortania's OC guide](https://dortania.github.io/OpenCore-Install-Guide/)
 - [OpenWireless project](https://github.com/OpenIntelWireless/itlwm)
+	
+Do not Steal Repo
