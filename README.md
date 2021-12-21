@@ -1,4 +1,4 @@
-# macOS  on MateBook X Pro 2020 | Opencore 0.7.6!
+# macOS  on MateBook X Pro 2020 | Opencore 0.7.6
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/91159194/146974883-e85804b0-6b3a-47e8-a7cc-9c639596d633.png" width="60%" alt="Huawei Big Sur 11.0" />
@@ -21,7 +21,7 @@ Currently working on my Personal Machine, so only **stable versions** will be re
 </div>
 
 <details>
-<summary><strong>macOS Monterey in Progress...</strong></summary>
+<strong>macOS Monterey in Progress...</strong></summary>
 
 - Follow Dortania's steps for [making the installer in macOS](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/mac-install.html#setting-up-the-installer)
 
