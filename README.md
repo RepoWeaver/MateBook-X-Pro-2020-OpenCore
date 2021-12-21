@@ -13,7 +13,7 @@ You Must **Change SMBIOS** to use **iCloud Services**
 
 Currently working on my Personal Machine, so only **stable versions** will be released
 
-#### Compatible with macOS Big Sur (Currently)OpenCore 0.7.6
+#### Compatible with macOS Big Sur (Currently) [OpenCore 0.7.6]
 <div align="Left">
 
 |     macOS Big Sur      |     11.6.2 (20G314)     |
@@ -73,7 +73,13 @@ For privacy reasons, all SMBIOS information has been wiped out in the configurat
 - With every **EFI update** you retrieve from [here](https://github.com/RepoWeaver/MateBook-X-Pro-2020-Opencore/releases), please, remember to transfer **your Device details** under `PlatformInfo -> Generic` in your `config.plist`.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/91159194/146970270-52fc1e1a-55da-4c89-af85-2855195c00a7.png" width="70%" alt="About this Mac" />
+<img src="https://user-images.githubusercontent.com/91159194/146970270-52fc1e1a-55da-4c89-af85-2855195c00a7.png" width="70%" alt="About this Mac Monterey Working on" />
+</p>
+<p align="center">
+Currently working on macOS Monterey Support 
+</p>
+<p align="center">
+- Big Sur is running well (Config in Releases)
 </p>
 
 ## Configuration
