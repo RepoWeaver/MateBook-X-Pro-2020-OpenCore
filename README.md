@@ -1,4 +1,4 @@
-# macOS  on MateBook X Pro 2020 | Opencore
+# MateBook X Pro 2020 | Opencore
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/91159194/146974883-e85804b0-6b3a-47e8-a7cc-9c639596d633.png" width="60%" alt="Huawei Big Sur 11.0" />
@@ -163,5 +163,5 @@ Many great people.
 - [Acidanthera](https://github.com/acidanthera)
 - [Dortania's OC guide](https://dortania.github.io/OpenCore-Install-Guide/)
 - [OpenWireless project](https://github.com/OpenIntelWireless/itlwm)
-	
-Do not Steal Repo
+- [profzei's Maintainer for Page Design](https://github.com/profzei/Matebook-X-Pro-2018)
+- [dsdt-database](https://dsdt-database.monster/matebook-x-pro-2020-core-i5-10210u-opencore/)
