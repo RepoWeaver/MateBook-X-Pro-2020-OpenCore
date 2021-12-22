@@ -113,7 +113,7 @@ See [**Current status**](https://github.com/RepoWeaver/MateBook-X-Pro-2020-OpenC
 ## Status
 
 - [x] **Intel(R) UHD 620** Graphics card  
-- [x] **Intel(R) Wireless-AC** 8265/8275 & **Intel(R) Bluetooth**
+- [x] **Intel(R) Wireless-AC** & **Intel(R) Bluetooth**
 - [x] **Power Management** with support for HWP (Intel Speed Shift & Intel SpeedStep)
 - [x] **Sleep** and **Wake** (support for native macOS `hibernatemode3`)
 - [x] **Hibernation** (support for native macOS `hibernatemode25` with `HibernationFixup.kext`)
@@ -142,7 +142,7 @@ See [**Current status**](https://github.com/RepoWeaver/MateBook-X-Pro-2020-OpenC
 <summary><strong>Notes</strong></summary>
 
 1. **Intel Bluetooth** could not support some Bluetooth devices
-2. **Touchscreen support is disabled by default** 
+2. **Touchscreen support is disabled by default** (Battery improvement)
 	
 #### Fixing Internal Speakers (taken from gnodipac886):
 
