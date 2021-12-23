@@ -27,6 +27,7 @@ Currently working on my Personal Machine, so only **stable versions** will be re
 
 If you find my work useful:
 * please consider **giving** it **a star** to make it more visible.
+* please consider **donating** to keep on maintaining this repo. <a href="https://www.buymeacoffee.com/repoweaver" target="_blank"><img src="https://img.shields.io/badge/Buy me a coffee-orange.svg" /></a>
 
 
 ### DISCLAIMER
