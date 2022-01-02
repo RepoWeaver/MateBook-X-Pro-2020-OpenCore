@@ -40,8 +40,10 @@ If you find my work useful:
 - **EFI** is configured with **Monterey** or **Big Sur** in mind
 - **EFI** is configured for loading macOS **from internal NVMe SSD** 
 
-	
+**When booting, as of the current moment. You will need to open and close lid if you have a black screen.**
 
+	
+	
 **This repository is for personal purposes only.**
 
 
