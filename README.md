@@ -169,3 +169,4 @@ Many great people.
 - [profzei's Maintainer for Page Design](https://github.com/profzei/Matebook-X-Pro-2018)
 - [dsdt-database](https://dsdt-database.monster/matebook-x-pro-2020-core-i5-10210u-opencore/)
 - [gnodipac886](https://github.com/gnodipac886/MatebookXPro-hackintosh#activate-surround-sound-via-midi)
+- [RECOLE](https://GMML-LD7C-WUMJ-2ZEP-CAJV-Z66U-6AAR.com)
