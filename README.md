@@ -75,7 +75,8 @@ For privacy reasons, all SMBIOS information has been wiped out in the configurat
 - With every **EFI update** you retrieve from [here](https://github.com/RepoWeaver/MateBook-X-Pro-2020-Opencore/releases), please, remember to transfer **your Device details** under `PlatformInfo -> Generic` in your `config.plist`.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/91159194/146970270-52fc1e1a-55da-4c89-af85-2855195c00a7.png" width="70%" alt="About this Mac Monterey Working on" />
+
+<img src="https://user-images.githubusercontent.com/91159194/148256043-38860f4b-71ba-4f32-9178-013eb2b1a7a1.jpg" width="70%" alt="About this Mac Monterey Working on" />
 </p>
 <p align="center">
 Currently working on macOS Monterey Support 
