@@ -144,7 +144,6 @@ See [**Current status**](https://github.com/RepoWeaver/MateBook-X-Pro-2020-OpenC
 
 - [x] Disable Secure Boot, Disable TPM, Thunderbolt (If you want to)
 
-<details>
 <summary><strong>Notes</strong></summary>
 
 1. **Intel Bluetooth** could not support some Bluetooth devices
