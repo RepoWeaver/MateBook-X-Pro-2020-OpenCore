@@ -13,15 +13,14 @@ You Must **Change SMBIOS** to use **iCloud Services**
 
 Currently working on my Personal Machine, so only **stable versions** will be released
 
-#### Compatible with macOS Big Sur (Currently) [OpenCore 0.7.6]
+#### Compatible with macOS Monterey (Stable) [OpenCore 0.7.6]
 <div align="Left">
 
-|     macOS Big Sur      |     11.6.2 (20G314)     |
+|     macOS Monterey      |     12.1 (21GC52)     |
 
 </div>
 
-<details>
-<strong>macOS Monterey in Progress...</strong></summary>
+<strong>macOS Monterey Support Completed, Will keep maintaining</strong></summary>
 
 - Follow Dortania's steps for [making the installer in macOS](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/mac-install.html#setting-up-the-installer)
 
@@ -103,25 +102,28 @@ Currently working on macOS Monterey Support
 
 </div>
 
-**Intel Graphics** It will say Intel(R) UHD Graphics 630 or Intel HD Graphics CFL CRB 1536 MB 
+**Intel Graphics** It will say Intel(R) UHD Graphics 630 or Intel HD Graphics CFL CRB 1536 MB with **Big Sur Releases**
 	
 	This is fine and will still work!!!
 
 
 ## Changelog
 
-#### 2021 - December - 21
+#### 2022 - January - 7th
 See [**Current status**](https://github.com/RepoWeaver/MateBook-X-Pro-2020-OpenCore/releases)
 
 ## Status
 
 - [x] **Intel(R) UHD 620** Graphics card  
 - [x] **Intel(R) Wireless-AC** & **Intel(R) Bluetooth**
-- [x] **Power Management** with support for HWP (Intel Speed Shift & Intel SpeedStep)
+- [x] **Power Management** with support for HWP (Intel Speed Shift & Intel SpeedStep) - Battery Life improvements - Depending on your CPUFriendFriend.kext file
 - [x] **Sleep** and **Wake** (support for native macOS `hibernatemode3`)
 - [x] **Hibernation** (support for native macOS `hibernatemode25` with `HibernationFixup.kext`)
 - [x] **Battery support** with better memory access and integration of [Battery Information Supplement & Turbo Boost Disabled (Applicaition)]
 - [x] **Automatic Backlight control** (Untested)
+- [x] **Fixed Black Screen on boot** (Won't have to close and open lid anymore 🎉)
+- [x] **Proper Power Management after wake from sleep**
+- [x] I've noticed that when plugging in a display through a hub you may need to plug in twice (This has always happened, just pointing out something)
 - [x] Backlight shortcuts (F1 [brightness level down] - F2 [brightness level up])
 - [x] Volume shortcuts (F4 [mute] - F5 [audio level down] - F6 [audio level up])
 - [x] **Audio** for **Realtek ALC256** card (via `AppleALC.kext` and `layout-id 97`)
@@ -139,7 +141,7 @@ See [**Current status**](https://github.com/RepoWeaver/MateBook-X-Pro-2020-OpenC
 
 #### BIOS Settings
 
-- [x] Disable Secure Boot, Disable TPM
+- [x] Disable Secure Boot, Disable TPM, Thunderbolt (If you want to)
 
 <details>
 <summary><strong>Notes</strong></summary>
@@ -169,4 +171,5 @@ Many great people.
 - [profzei's Maintainer for Page Design](https://github.com/profzei/Matebook-X-Pro-2018)
 - [dsdt-database](https://dsdt-database.monster/matebook-x-pro-2020-core-i5-10210u-opencore/)
 - [gnodipac886](https://github.com/gnodipac886/MatebookXPro-hackintosh#activate-surround-sound-via-midi)
+- [espitgn](https://github.com/espitgn) - Helping with Maintaining Monterey / Big Sur Support
 - [RECOLE](https://GMML-LD7C-WUMJ-2ZEP-CAJV-Z66U-6AAR.com)
