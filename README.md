@@ -116,7 +116,7 @@ See [**Current status**](https://github.com/RepoWeaver/MateBook-X-Pro-2020-OpenC
 ## Status
 
 - [x] **Intel(R) UHD 620** Graphics card  
-- [x] **Intel(R) Wireless-AC** & **Intel(R) Bluetooth**
+- [x] **Intel(R) Wireless-AC** & **Intel(R) Bluetooth** (With Bluetooth, Downlaoding bit files affects bluetooth, bluetooth may just stop or crackle and this has always happened on Windos 10 and 11, it's just a really poor design from intel or Huawei)
 - [x] **Power Management** with support for HWP (Intel Speed Shift & Intel SpeedStep) - Battery Life improvements - Depending on your CPUFriendFriend.kext file
 - [x] **Sleep** and **Wake** (support for native macOS `hibernatemode3`)
 - [x] **Hibernation** (support for native macOS `hibernatemode25` with `HibernationFixup.kext`)
