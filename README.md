@@ -91,7 +91,7 @@ Currently working on macOS Monterey Support
 
 ## Configuration
 
-<div align="center">
+<div align="left">
 
 | Specifications      | Details                                          |
 | :--- | :--- |
