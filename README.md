@@ -1,7 +1,7 @@
 # MateBook X Pro 2020 | Opencore
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/91159194/146974883-e85804b0-6b3a-47e8-a7cc-9c639596d633.png" width="60%" alt="Huawei Big Sur 11.0" />
+<img src="https://user-images.githubusercontent.com/91159194/148530343-f93d5431-80c5-458b-afe8-e00ff4926b7b.png" width="70%" alt="Huawei Big Sur 11.0" />
 </p>
 <p align="center">
 <a href="https://consumer.huawei.com/en/laptops/matebook-x-pro-2020/" target="_blank"><img src="https://img.shields.io/badge/Model-MACHC_WAX9-green.svg" /></a>
