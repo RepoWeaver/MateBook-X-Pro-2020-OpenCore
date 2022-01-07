@@ -150,7 +150,7 @@ See [**Current status**](https://github.com/RepoWeaver/MateBook-X-Pro-2020-OpenC
 
 1. **Intel Bluetooth** could not support some Bluetooth devices
 2. **Touchscreen support is disabled by default** (Battery improvement)
-	
+
 #### Fixing Internal Speakers (taken from gnodipac886):
 
 By default macOS only uses 2 out of your 4 speakers which sound muffled and are missing a lot of the high frequencies.
@@ -164,6 +164,16 @@ Enable surround sound to get a way better audio experience.
 - Select the newly created device in the menu bar
 - Enjoy your music!
 
+## Note From espitgn:
+
+There is the possibility of disabling CFG Lock and enabling dvmt 64. There is a power management improvement disabling CFG Lock which is quite good. The procedure (Customising BIOS) is quite easy to follow. 
+
+(look at [this link](https://github.com/ske1996/Matebook-x-pro-2019-Hackintosh-newest/blob/main/readme-en.md#after-installation): "How to disable CFG Lock" and "Change dvmt to 64 mb" in "After installation" section).
+
+These guides work without issue on the MateBook X Pro 2020 (tested with BIOS 1.19 and 1.21 versions). 
+
+Each guide shows the changes to do in config.plist as well.
+	
 
 ## Credits
 Many great people.
