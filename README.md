@@ -13,10 +13,14 @@ You Must **Change SMBIOS** to use **iCloud Services**
 
 Currently working on my Personal Machine, so only **stable versions** will be released
 
-#### Compatible with macOS Monterey (Stable) [OpenCore 0.7.6]
+#### Compatible macOS Versions [OpenCore 0.7.6]
 <div align="Left">
+	
+| **macOS** | **Version** | **Status** | **OpenCore Version** |
+| --- | --- | --- | --- |
+| <div align="Center"> Monterey | <div align="Center"> 12.1 (21GC52) | <div align="Center"> Stable | <div align="Center"> OpenCore 0.7.6 |
+| <div align="Center"> Big Sur | <div align="Center"> 11.6.2 (20G314) | <div align="Center"> Stable | <div align="Center"> OpenCore 0.7.6 |
 
-|     macOS Monterey      |     12.1 (21GC52)     |
 
 </div>
 
