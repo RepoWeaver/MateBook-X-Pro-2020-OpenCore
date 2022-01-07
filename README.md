@@ -13,7 +13,7 @@ You Must **Change SMBIOS** to use **iCloud Services**
 
 Currently working on my Personal Machine, so only **stable versions** will be released
 
-#### Compatible macOS Versions [OpenCore 0.7.6]
+#### Compatible macOS Versions:
 <div align="Left">
 	
 | **macOS** | **Version** | **Status** | **OpenCore Version** |
