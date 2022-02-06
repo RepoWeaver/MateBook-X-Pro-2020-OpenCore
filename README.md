@@ -168,9 +168,9 @@ Enable surround sound to get a way better audio experience.
 - Select the newly created device in the menu bar
 - Enjoy your music!
 
-## Note From espitgn:
+## Disabling CFG Lock and enabling DVMT 64 (BIOS patches):
 
-There is the possibility of disabling CFG Lock and enabling dvmt 64. There is a power management improvement disabling CFG Lock which is quite good. The procedure (Customising BIOS) is quite easy to follow. 
+There is the possibility of disabling CFG Lock and enabling dvmt 64. Disabling CFG Lock allows a better power management improvement. Enabling DVMT 64 allows 4K resolution in external screen. Both procedures (Customizing BIOS) are quite easy to follow, but you have to do very carefully and could brick your MBXP if you don't follow them step by step. Use them at your own risk!
 
 (look at [this link](https://github.com/ske1996/Matebook-x-pro-2019-Hackintosh-newest/blob/main/readme-en.md#after-installation): "How to disable CFG Lock" and "Change dvmt to 64 mb" in "After installation" section).
 
