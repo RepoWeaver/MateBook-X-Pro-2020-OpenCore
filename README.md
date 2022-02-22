@@ -43,9 +43,6 @@ If you find my work useful:
 - **EFI** is configured with **Monterey** or **Big Sur** in mind
 - **EFI** is configured for loading macOS **from internal NVMe SSD** 
 
-**When booting, as of the current moment. You will need to open and close lid if you have a black screen.**
-
-	
 	
 **This repository is for personal purposes only.**
 
@@ -62,7 +59,7 @@ This repo contains the files needed for getting macOS working on a **Huawei Mate
 ### Summary
 
 - The **compatibility** is **very good** for the most part, most of the stuff works like it would on a real MacBook, including camera, audio, touchpad, iCloud services.
-- The **experience** is **pleasant**, as the laptop is smooth and responsive under macOS Big Sur/Catalina.
+- The **experience** is **pleasant**, as the laptop is smooth and responsive under macOS Monterey/Big Sur.
 - **Battery life** is **quite great** (from personal experience it **lasts from 4-6 hours** for light works depending on its age with a behaviour very similar to Windows 11.
 
 (With the use of turbo boost disabled)
@@ -107,7 +104,7 @@ Currently working on macOS Monterey Support
 
 </div>
 
-**Intel Graphics** It will say Intel(R) UHD Graphics 630 or Intel HD Graphics CFL CRB 1536 MB with **Big Sur Releases**
+**Intel Graphics** It will say Intel(R) UHD Graphics 630 or Intel HD Graphics CFL CRB 1536 MB with **Monterey/Big Sur Releases**
 	
 	This is fine and will still work!!!
 
