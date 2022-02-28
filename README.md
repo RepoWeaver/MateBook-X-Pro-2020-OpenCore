@@ -18,8 +18,8 @@ Currently working on my Personal Machine, so only **stable versions** will be re
 	
 | **macOS** | **Version** | **Status** | **OpenCore Version** |
 | --- | --- | --- | --- |
-| <div align="Center"> Monterey | <div align="Center"> 12.1 (21GC52) | <div align="Center"> Stable | <div align="Center"> OpenCore 0.7.6 |
-| <div align="Center"> Big Sur | <div align="Center"> 11.6.2 (20G314) | <div align="Center"> Stable | <div align="Center"> OpenCore 0.7.6 |
+| <div align="Center"> Monterey | <div align="Center"> 12.1 (21GC52) | <div align="Center"> Stable | <div align="Center"> OpenCore 0.7.8 |
+| <div align="Center"> Big Sur | <div align="Center"> 11.6.2 (20G314) | <div align="Center"> Stable | <div align="Center"> OpenCore 0.7.8 |
 
 
 </div>
